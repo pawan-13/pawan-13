@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @pawan-13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1> Hi there , I'm <a href="https://www.linkedin.com/in/shubhin151/">Pawan Kumar </a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="4%"></a></h1>
+<a href="https://github.com/pawan-13/"></a>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img src="https://komarev.com/ghpvc/?username=pawan-13">        
+
+- 🌱 I’m currently learning **Node, Express & Mongo**.
+- 💬 Ask me about **JavaScript & ReactJS**.
+- 📫 How to reach me **pawan30jul@gmail.com**.
+- 🔭 I’m currently working on my portfolio.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to listing melody song and play guitar.
+- 📫 You can reach me on LinkedIN **pawan30jul**.
 
 <h1>Languages and Tools:</h1>
 
